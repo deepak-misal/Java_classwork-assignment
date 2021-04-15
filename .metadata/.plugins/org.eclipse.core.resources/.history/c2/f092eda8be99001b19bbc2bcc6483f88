@@ -1,0 +1,19 @@
+package com.techlab.model;
+
+public class CurrentAccount extends Account {
+	public boolean transactionFlag=true;
+
+	public CurrentAccount(int accNo, String accName, double balance) {
+		super(accNo, accName, balance);
+		}
+	public void withdraw(double amount) {
+		int minimum_balance=1000;
+		if (balance - minimum_balance<1000) {
+			transactionFlag=false;
+		} else {
+			balance = balance - amount;
+		}
+		
+	}
+
+}

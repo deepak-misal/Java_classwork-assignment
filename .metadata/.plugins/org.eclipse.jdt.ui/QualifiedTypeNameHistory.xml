@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.techlab.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Color"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Person"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Account"/>
+    <fullyQualifiedTypeName name="com.techlab.model.B"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Boy"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Kids"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Employee"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Programmer"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+    <fullyQualifiedTypeName name="com.techlab.model.CurrentAccount"/>
+    <fullyQualifiedTypeName name="com.techlab.model.SavingAccount"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Icrudable"/>
+    <fullyQualifiedTypeName name="com.techlab.model.CustomerDB"/>
+    <fullyQualifiedTypeName name="com.techlab.model.InvoiceDB"/>
+    <fullyQualifiedTypeName name="com.techlab.model.DepartmentDB"/>
+    <fullyQualifiedTypeName name="com.techlab.model.IMovable"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Bike"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Car"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Truck"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Man"/>
+    <fullyQualifiedTypeName name="com.techlab.model.Infant"/>
+    <fullyQualifiedTypeName name="com.techlab.model.IEomtionable"/>
+    <fullyQualifiedTypeName name="com.techlab.model.ISocialization"/>
+</qualifiedTypeNameHistroy>
