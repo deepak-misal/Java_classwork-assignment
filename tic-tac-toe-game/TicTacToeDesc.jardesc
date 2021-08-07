@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/javaclasswork_a/TicTacToe.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/tic-tac-toe-game/TicTacToeDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=tic-tac-toe-game/src&lt;com.techlab.test{TicTacToeTest.java[TicTacToeTest" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/tic-tac-toe-game/TicTacToeDesc.jardesc"/>
+        <javaElement handleIdentifier="=tic-tac-toe-game/src"/>
+        <file path="/tic-tac-toe-game/.gitignore"/>
+        <file path="/tic-tac-toe-game/.classpath"/>
+        <file path="/tic-tac-toe-game/.project"/>
+    </selectedElements>
+</jardesc>
